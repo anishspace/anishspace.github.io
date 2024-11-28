@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- if site.show_excerpts -%}
+          <div style="clear: both; margin-bottom: 1em; overflow: auto;">
+            <div style="float: left; margin-right: 1.5em;">
+              <a href="{{ post.url | relative_url }}"> <img src="{{site.baseurl}}/assets/{{post.pic}}" alt="" width="160" height="160"> </a>
+            </div>
+            <div>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+              <p class="post-excerpt">
+                {{ post.excerpt | strip_html | append: "..." }} <a class="post-excerpt-text" href = "{{site.baseurl}}{{post.url}}">continue reading</a> <br/>
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+              </p>
+            </div>
+          </div>
+          <hr style="border: 1px solid rgb(240, 240, 240);">
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a class="post-excerpt-text" href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
