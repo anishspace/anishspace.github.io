@@ -33,8 +33,8 @@ excerpt_separator: <!--more-->
 
 header_pages:
   - publications.markdown
-  - artworks.markdown
-  - about.markdown
+  - talks.markdown
+  - blog.markdown
 
 # Build settings
 theme: minima

@@ -5,4 +5,3 @@ order: 1
 permalink: /publications/
 ---
 
-Hello there!
