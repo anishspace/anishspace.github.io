@@ -220,7 +220,7 @@
 
 .post-excerpt {
   display: block;
-  @include relative-font-size(0.85);
+  @include relative-font-size(1);
 }
 
 .post-excerpt-text:hover {
