@@ -13,7 +13,7 @@ title: Welcome
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 30px;">
 
   <!-- LEFT SIDEBAR: PHOTO, BIO, AND SOCIAL LINKS -->
-  <div style="flex: 1; min-width: 260px; max-width: 280px; text-align: center;">
+  <div style="flex: 1; min-width: 180px; max-width: 200px; text-align: center;">
     
     <!-- Profile Image -->
     <img src="{{ site.baseurl }}/assets/my-photo.jpg" alt="Anish Mukherjee" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
@@ -29,7 +29,7 @@ title: Welcome
     
     <!-- Social & Contact Links (AcademicPages Style) -->
     <ul style="list-style: none; padding: 0; margin: 0; text-align: left; line-height: 2.2em; font-size: 0.95em;">
-      <li><a href="mailto:anishm.space@gmail.com" style="color: #333; text-decoration: none;"><i class="fa-solid fa-envelope" style="width: 25px; color: #555;"></i> Email</a></li>
+      <li><a href="mailto:anishm.space@gmail.com" style="color: #333; text-decoration: none;"><i class="fa-solid fa-envelope" style="width: 25px; color: #555;"></i>&nbsp;Email</a></li>
       <li><a href="https://scholar.google.com/citations?user=MR_fCsQAAAAJ" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-solid fa-graduation-cap" style="width: 25px; color: #555;"></i>&nbsp;Google Scholar</a></li>
       <li><a href="https://github.com/anishspace/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-github" style="width: 25px; color: #555;"></i>&nbsp;GitHub</a></li>
       <li><a href="https://www.linkedin.com/in/primestardust/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-linkedin" style="width: 25px; color: #555;"></i>&nbsp;LinkedIn</a></li>
