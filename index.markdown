@@ -41,8 +41,9 @@ title: Welcome
   <div style="flex: 2; min-width: 320px;">
     <h1 style="margin-top: 0;">Biography</h1>
     <p>I am a data scientist specializing in the development of statistical methodologies for complex data. I am currently a Postdoctoral Research Assistant in the Faculty of Economics at the Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data.
-    <br>
-    My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation.  Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
+    </p>
+    
+    <p>My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation.  Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
     </p>
     
     <h3>Research Interests</h3>
