@@ -10,6 +10,8 @@ title: Welcome
 <!-- FontAwesome CDN to load social media icons automatically -->
 <script src="https://cloudflare.com" crossorigin="anonymous"></script>
 
+<h1 style="margin-top: 20px; margin-bottom: 25px;">Welcome!</h1>
+
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 30px;">
 
   <!-- LEFT SIDEBAR: PHOTO, BIO, AND SOCIAL LINKS -->
@@ -39,7 +41,7 @@ title: Welcome
 
   <!-- RIGHT COLUMN: MAIN CONTENT & BIOGRAPHY -->
   <div style="flex: 2; min-width: 320px;">
-    <h1 style="margin-top: 0;">Biography</h1>
+    
     <p>I am a data scientist specializing in the development of statistical methodologies for complex data. I am currently a Postdoctoral Research Assistant in the Faculty of Economics at the Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data.
     </p>
     
