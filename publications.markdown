@@ -10,7 +10,7 @@ permalink: /publications/
 * **Analyzing Zero-inflated Clustered Dental Data**  
   Shoumi Sarkar, **Anish Mukherjee**, Jeremy T. Gaskins, Steven Levy, Peihua Qiu, Somnath Datta  
   *arXiv Preprint*, 2025.  
-  [URL: https://arxiv.org](https://arxiv.org)
+  [URL: https://arxiv.org/abs/2412.11348](https://arxiv.org/abs/2412.11348)
 
 * **Modeling Zero-Inflated Correlated Dental Data through Gaussian Copulas and Approximate Bayesian Computation**  
   **Anish Mukherjee**, Jeremy T. Gaskins, Shoumi Sarkar, Steven Levy, Somnath Datta  
