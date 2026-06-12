@@ -7,13 +7,13 @@ permalink: /talks/
 
 
 ### Invited Talks
-* **Capturing Nonstationarity in Spatio-Temporal Data via Bayesian Nonparametrics**  
-  *IISA*, 2026.
+<!-- * **Capturing Nonstationarity in Spatio-Temporal Data via Bayesian Nonparametrics**  
+  *IISA*, 2026. -->
 
 * **Modeling Zero-Inflated Correlated Count Data through Gaussian copulas and ABC**  
   *Biostatistics Seminar Series, Fall 2023*.
 
-***
+&nbsp;&nbsp;
 
 ### Contributed Talks
 * **A Bayesian Spatio-Temporal Clustering Framework for Cardiovascular Outcomes**  
