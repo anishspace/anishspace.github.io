@@ -6,7 +6,6 @@ permalink: /publications/
 ---
 
 ### Preprints
----
 
 * **Analyzing Zero-inflated Clustered Dental Data**  
   Shoumi Sarkar, **Anish Mukherjee**, Jeremy T. Gaskins, Steven Levy, Peihua Qiu, Somnath Datta  
@@ -18,9 +17,9 @@ permalink: /publications/
   *arXiv Preprint*, 2024.  
   [URL: https://arxiv.org/abs/2410.13949](https://arxiv.org/abs/2410.13949)
 
+---
 
 ### Publications
----
 
 * **Rate of cesarean delivery among patients with class III obesity at term based on body mass index: A retrospective cohort study**  
   Emily R. Root, Brittany A. Myers, Jeremy T. Gaskins, **Anish Mukherjee**, Rebecca C. Pierson, Edward E. Miller, Jessica Kline  
