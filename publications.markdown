@@ -5,22 +5,8 @@ order: 1
 permalink: /publications/
 ---
 
-<!-- Visual Profile Anchors -->
-<p align="left">
-  <a href="https://scholar.google.com/citations?user=MR_fCsQAAAAJ" target="_blank">
-    <img src="https://shields.io" alt="Google Scholar Profile">
-  </a>
-  <a href="https://scholar.google.com/citations?user=MR_fCsQAAAAJ" target="_blank">
-    <img src="https://shields.io" alt="GitHub Profile">
-  </a>
-</p>
-
-***
-
-* **Rate of cesarean delivery among patients with class III obesity at term based on body mass index: A retrospective cohort study**  
-  Emily R. Root, Brittany A. Myers, Jeremy T. Gaskins, **Anish Mukherjee**, Rebecca C. Pierson, Edward E. Miller, Jessica Kline  
-  *International Journal of Gynecology & Obstetrics*, 2026.  
-  [DOI: 10.1002/ijgo.71060](https://doi.org)
+### Preprints
+---
 
 * **Analyzing Zero-inflated Clustered Dental Data**  
   Shoumi Sarkar, **Anish Mukherjee**, Jeremy T. Gaskins, Steven Levy, Peihua Qiu, Somnath Datta  
@@ -31,6 +17,15 @@ permalink: /publications/
   **Anish Mukherjee**, Jeremy T. Gaskins, Shoumi Sarkar, Steven Levy, Somnath Datta  
   *arXiv Preprint*, 2024.  
   [URL: https://arxiv.org/abs/2410.13949](https://arxiv.org/abs/2410.13949)
+
+
+### Publications
+---
+
+* **Rate of cesarean delivery among patients with class III obesity at term based on body mass index: A retrospective cohort study**  
+  Emily R. Root, Brittany A. Myers, Jeremy T. Gaskins, **Anish Mukherjee**, Rebecca C. Pierson, Edward E. Miller, Jessica Kline  
+  *International Journal of Gynecology & Obstetrics*, 2026.  
+  [DOI: 10.1002/ijgo.71060](https://doi.org)
 
 * **A Spatiotemporal Analytical Outlook of the Exposure to Air Pollution and COVID-19 Mortality in the USA**  
   Sounak Chakraborty, Tanujit Dey, Yoonbae Jun, Chae Young Lim, **Anish Mukherjee**, Francesca Dominici  
