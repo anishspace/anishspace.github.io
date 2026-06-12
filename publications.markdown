@@ -17,7 +17,7 @@ permalink: /publications/
   *arXiv Preprint*, 2024.  
   [URL: https://arxiv.org/abs/2410.13949](https://arxiv.org/abs/2410.13949)
 
-&nbsp;&nbsp;
+&nbsp;
 
 ### Publications
 

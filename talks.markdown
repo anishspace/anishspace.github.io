@@ -13,7 +13,7 @@ permalink: /talks/
 * **Modeling Zero-Inflated Correlated Count Data through Gaussian copulas and ABC**  
   *Biostatistics Seminar Series, Fall 2023*.
 
-&nbsp;&nbsp;
+&nbsp;
 
 ### Contributed Talks
 * **A Bayesian Spatio-Temporal Clustering Framework for Cardiovascular Outcomes**  
