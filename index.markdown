@@ -39,8 +39,7 @@ custom_head: |
     "sameAs": [
       "https://www.linkedin.com/in/anishspace/",
       "https://scholar.google.com/citations?user=MR_fCsQAAAAJ",
-      "https://github.com/anishspace/",
-
+      "https://github.com/anishspace/"
     ]
   }
   </script>
