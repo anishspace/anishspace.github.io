@@ -4,6 +4,46 @@
 
 layout: default
 title: Welcome
+custom_head: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Anish Mukherjee",
+    "jobTitle": "Bayesian Data Scientist & Biostatistician",
+    "worksFor": {
+      "@type": "CollegeOrUniversity",
+      "name": "Rice University",
+      "sameAs": "https://www.rice.edu"
+    },
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Louisville",
+        "sameAs": "https://louisville.edu"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Calcutta",
+        "sameAs": "https://caluniv.ac.in"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "St. Xavier's College, Kolkata",
+        "sameAs": "https://sxccal.edu"
+      }
+    ],
+    "description": "Biostatistician and Data Scientist specializing in Bayesian inference, spatial-temporal models, and Bayesian nonparametrics",
+    "url": "https://anishspace.github.io",
+    "email": "mailto:anishm.space@gmail.com",
+    "sameAs": [
+      "https://www.linkedin.com/in/anishspace/",
+      "https://scholar.google.com/citations?user=MR_fCsQAAAAJ",
+      "https://github.com/anishspace/",
+
+    ]
+  }
+  </script>
 ---
 
 
@@ -34,7 +74,7 @@ title: Welcome
       <li><a href="mailto:anishm.space@gmail.com" style="color: #333; text-decoration: none;"><i class="fa-solid fa-envelope" style="width: 25px; color: #555;"></i>&nbsp;Email</a></li>
       <li><a href="https://scholar.google.com/citations?user=MR_fCsQAAAAJ" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-solid fa-graduation-cap" style="width: 25px; color: #555;"></i>&nbsp;Google Scholar</a></li>
       <li><a href="https://github.com/anishspace/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-github" style="width: 25px; color: #555;"></i>&nbsp;GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/primestardust/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-linkedin" style="width: 25px; color: #555;"></i>&nbsp;LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/anishspace/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-linkedin" style="width: 25px; color: #555;"></i>&nbsp;LinkedIn</a></li>
     </ul>
     
   </div>
@@ -42,10 +82,10 @@ title: Welcome
   <!-- RIGHT COLUMN: MAIN CONTENT & BIOGRAPHY -->
   <div style="flex: 2; min-width: 320px;">
     
-    <p>I am a data scientist specializing in the development of statistical methodologies for complex data. I am currently a Postdoctoral Research Assistant in the Faculty of Economics at the Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data.
+    <p>I am a data scientist specializing in the development of statistical methodologies for complex data. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data. I am currently a Postdoctoral Research Assistant in the Faculty of Economics at the Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. 
     </p>
     
-    <p>My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation.  Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
+    <p>My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation. Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
     </p>
     
     <h3>Research Interests</h3>
