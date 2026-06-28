@@ -34,7 +34,7 @@ excerpt_separator: <!--more-->
 header_pages:
   - publications.markdown
   - talks.markdown
-  - blog.markdown
+  # - blog.markdown
 
 # Build settings
 theme: minima
