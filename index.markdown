@@ -73,6 +73,7 @@ custom_head: |
     <ul style="list-style: none; padding: 0; margin: 0; text-align: left; line-height: 2.2em; font-size: 0.95em;">
       <li><a href="mailto:anishm.space@gmail.com" style="color: #333; text-decoration: none;"><i class="fa-solid fa-envelope" style="width: 25px; color: #555;"></i>&nbsp;Email</a></li>
       <li><a href="https://scholar.google.com/citations?user=MR_fCsQAAAAJ" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-solid fa-graduation-cap" style="width: 25px; color: #555;"></i>&nbsp;Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0002-4875-4157" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-solid fa-graduation-cap" style="width: 25px; color: #555;"></i>&nbsp;ORCID</a></li>
       <li><a href="https://github.com/anishspace/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-github" style="width: 25px; color: #555;"></i>&nbsp;GitHub</a></li>
       <li><a href="https://www.linkedin.com/in/anishspace/" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-linkedin" style="width: 25px; color: #555;"></i>&nbsp;LinkedIn</a></li>
       <li><a href="https://www.kolabtree.com/find-an-expert/anish-m.15198" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-linkedin" style="width: 25px; color: #555;"></i>&nbsp;Kolabtree</a></li>
