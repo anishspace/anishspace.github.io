@@ -7,6 +7,8 @@ permalink: /publications/
 
 ### Preprints
 
+* **Over-the-counter Analgesics Improve Post-Concussion Symptoms and Recovery**. Kyle Arnold, **Anish Mukherjee**, Yeo Won Kim MD, Kira Rosenlind, Steven P. Broglio, Michael McCrea, Thomas W. McAllister, Tara L. Sharma. accepted in *British Journal of Sports Medicine*, 2026.
+
 * **Analyzing Zero-inflated Clustered Dental Data**. Shoumi Sarkar, **Anish Mukherjee**, Jeremy T. Gaskins, Steven Levy, Peihua Qiu, Somnath Datta, *arXiv Preprint*, 2025. [URL: https://arxiv.org/abs/2412.11348](https://arxiv.org/abs/2412.11348)
 
 * **Modeling Zero-Inflated Correlated Dental Data through Gaussian Copulas and Approximate Bayesian Computation**. **Anish Mukherjee**, Jeremy T. Gaskins, Shoumi Sarkar, Steven Levy, Somnath Datta. *arXiv Preprint*, 2024. [URL: https://arxiv.org/abs/2410.13949](https://arxiv.org/abs/2410.13949)
@@ -23,7 +25,7 @@ permalink: /publications/
 
 * **SARS-CoV-2 RNA abundance in wastewater as a function of distinct urban sewershed size**. Rochelle H. Holm, **Anish Mukherjee**, Jayesh P. Rai, Ray A. Yeager, Daymond Talley, Shesh N. Rai, Aruni Bhatnagar, Ted Smith. *Environmental Science: Water Research & Technology*, 8(4), 807-819, 2022. [DOI: 10.1039/D1EW00672J](https://doi.org)
 
-* **Surveillance of RNase P, PMMoV, and CrAssphage in wastewater as indicators of human fecal concentration across urban sewer neighborhoods, Kentucky**. R H Holm, M Nagarkar, R A Yeager, D Talley, A C Chaney, J P Rai, A Mukherjee, S N Rai, A Bhatnagar, T Smith. *FEMS Microbes*, 3, xtac003, 2022. [DOI: 10.1093/femsmc/xtac003](https://doi.org)
+* **Surveillance of RNase P, PMMoV, and CrAssphage in wastewater as indicators of human fecal concentration across urban sewer neighborhoods, Kentucky**. R H Holm, M Nagarkar, R A Yeager, D Talley, A C Chaney, J P Rai, **A Mukherjee**, S N Rai, A Bhatnagar, T Smith. *FEMS Microbes*, 3, xtac003, 2022. [DOI: 10.1093/femsmc/xtac003](https://doi.org)
 
 * **Improved Language-Independent Speaker Identification in a Non-contemporaneous Setup**. Smarajit Bose, Amita Pal, **Anish Mukherjee**, Debasmita Das. *International Journal of Machine Learning and Computing*, 10(5), 630-636, 2020. [DOI: 10.18178/ijmlc.2020.10.5.984](https://doi.org)
 
