@@ -79,12 +79,13 @@ custom_head: |
       <li><a href="https://www.kolabtree.com/find-an-expert/anish-m.15198" target="_blank" style="color: #333; text-decoration: none;"><i class="fa-brands fa-linkedin" style="width: 25px; color: #555;"></i>&nbsp;Kolabtree</a></li>
     </ul>
     
-  </div>
+  </div> 
 
   <!-- RIGHT COLUMN: MAIN CONTENT & BIOGRAPHY -->
   <div style="flex: 2; min-width: 320px;">
     
-    <p>I am a data scientist specializing in the development of statistical methodologies for complex data. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data. I am currently a Postdoctoral Research Assistant in the Faculty of Economics at the Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. 
+    <p>I am a data scientist specializing in the development of statistical methodologies for complex data. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data. I am joining the department of statistics at Rice University as a postdoctoral scholar under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. I will be developing robust methodology for the integrative analysis of microbiome datasets with multi-omic modalities, while modeling intricate spatial and temporal structures present in the data. 
+    Previously, I have been a postdoctoral researcher in the Faculty of Economics at the Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. 
     </p>
     
     <p>My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation. Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
