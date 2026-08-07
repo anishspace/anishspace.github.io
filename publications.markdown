@@ -7,6 +7,8 @@ permalink: /publications/
 
 ### Preprints
 
+* **Covariate Informed Identification of Heterogeneity and Outliers in Longitudinal Data**. **Anish Mukherjee** and Jeremy Gaskins.
+
 * **Over-the-counter Analgesics Improve Post-Concussion Symptoms and Recovery**. Kyle Arnold, **Anish Mukherjee**, Yeo Won Kim MD, Kira Rosenlind, Steven P. Broglio, Michael McCrea, Thomas W. McAllister, Tara L. Sharma. accepted in *British Journal of Sports Medicine*, 2026.
 
 * **Analyzing Zero-inflated Clustered Dental Data**. Shoumi Sarkar, **Anish Mukherjee**, Jeremy T. Gaskins, Steven Levy, Peihua Qiu, Somnath Datta, *arXiv Preprint*, 2025. [URL: https://arxiv.org/abs/2412.11348](https://arxiv.org/abs/2412.11348)
