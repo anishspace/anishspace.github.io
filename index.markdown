@@ -63,8 +63,8 @@ custom_head: |
     <!-- Title & Affiliation -->
     <h2 style="margin-top: 15px; margin-bottom: 5px; font-size: 1.5em;">Anish Mukherjee</h2>
     <p style="font-size: 0.95em; color: #555; margin-bottom: 15px; line-height: 1.4em;">
-      Independent Data Scientist Postdoctoral Researcher<br>
-      <span style="color: #777;">Department of Statistics<br>University</span>
+      Independent Data Scientist & Postdoctoral Researcher<br>
+      <span style="color: #777;">Department of Statistics<br>Rice University</span>
     </p>
     
     <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
