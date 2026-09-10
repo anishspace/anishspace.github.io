@@ -63,7 +63,7 @@ custom_head: |
     <!-- Title & Affiliation -->
     <h2 style="margin-top: 15px; margin-bottom: 5px; font-size: 1.5em;">Anish Mukherjee</h2>
     <p style="font-size: 0.95em; color: #555; margin-bottom: 15px; line-height: 1.4em;">
-      Independent Data Scientist &amp; Postdoctoral Researcher<br>
+      Independent Statistician &amp; Postdoctoral Researcher<br>
       <span style="color: #777;">Department of Statistics<br>Rice University</span>
     </p>
     
@@ -84,7 +84,7 @@ custom_head: |
   <!-- RIGHT COLUMN: MAIN CONTENT & BIOGRAPHY -->
   <div style="flex: 2; min-width: 320px;">
     
-    <p>I am a data scientist specializing in the development of statistical methodologies for complex data. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data.</p> 
+    <p>I am a statistician specializing in the development of statistical methodologies for complex data. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data.</p> 
     
     <p>I will be joining the department of statistics at Rice University as a postdoctoral scholar under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. I will develop robust methodology for the integrative analysis of microbiome datasets with multi-omic modalities, while modeling intricate spatial and temporal structures present in the data. 
     Previously, I have been a postdoctoral researcher in the department of economics at Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. 
