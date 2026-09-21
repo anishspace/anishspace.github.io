@@ -88,7 +88,7 @@ custom_head: |
     
     <p>I am a statistician developing methodologies for data with complex dependence structures. My research spans longitudinal and spatial data analysis, statistical genomics, and modeling of dynamic systems, particularly in Bayesian setting. </p>
     
-    <p>I am currently a postdoctoral scholar in the department of statistics at Rice University working under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. My primary aim, at present, is to develop robust methodology for integrative analysis of microbiome datasets with multi-omic modalities, while modeling intricate spatial and temporal structures present in the data.</p> 
+    <p>At present, I am a postdoctoral scholar in the department of statistics at Rice University working under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. My current aim is to develop robust methodology for integrative analysis of microbiome datasets with multi-omic modalities, while modeling intricate spatial and temporal structures present in the data.</p> 
     
     <p>Previously, I have been a postdoctoral researcher in the department of economics at Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. 
     </p>
