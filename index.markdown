@@ -50,8 +50,6 @@ custom_head: |
 <!-- FontAwesome CDN to load social media icons automatically -->
 <script src="https://cloudflare.com" crossorigin="anonymous"></script>
 
-<h1 style="margin-top: 20px; margin-bottom: 25px;">Welcome!</h1>
-
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 30px;">
 
   <!-- LEFT SIDEBAR: PHOTO, BIO, AND SOCIAL LINKS -->
@@ -83,6 +81,8 @@ custom_head: |
 
   <!-- RIGHT COLUMN: MAIN CONTENT & BIOGRAPHY -->
   <div style="flex: 2; min-width: 320px;">
+    
+    <h1 style="margin-top: 20px; margin-bottom: 25px;">Welcome!</h1>
     
     <p>I am a statistician developing methodologies for data with complex dependence structures. My research spans spatio-temporal modeling, analysis of microbiome data with multi-omic modalities, and dynamic systems, particularly in Bayesian setting. I am currently a postdoctoral scholar in the department of statistics at Rice University working under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. My aim is to develop robust methodology for the integrative analysis of microbiome datasets, while modeling intricate spatial and temporal structures present in the data.</p> 
     
