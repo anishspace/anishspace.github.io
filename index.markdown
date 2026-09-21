@@ -84,7 +84,7 @@ custom_head: |
     
     <!-- <h1 style="margin-top: 20px; margin-bottom: 25px;">Welcome!</h1> -->
 
-    <p style="font-size: 16px;">Welcome to my digital base!</p>
+    <p style="font-size: 20px;">Welcome to my digital base!</p>
     
     <p>I am a statistician developing methodologies for data with complex dependence structures. My research spans longitudinal and spatial data analysis, statistical genomics, and modeling of dynamic systems, particularly in Bayesian setting. </p>
     
