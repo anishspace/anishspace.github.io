@@ -84,20 +84,20 @@ custom_head: |
   <!-- RIGHT COLUMN: MAIN CONTENT & BIOGRAPHY -->
   <div style="flex: 2; min-width: 320px;">
     
-    <p>I am a statistician specializing in the development of statistical methodologies for complex data. My research spans spatio-temporal modeling, statistical genomics, and stochastic systems, with a particular focus on Bayesian approaches for analyzing high-dimensional and dependent data.</p> 
+    <p>I am a statistician developing methodologies for data with complex dependence structures. My research spans spatio-temporal modeling, analysis of microbiome data with multi-omic modalities, and dynamic systems, particularly in Bayesian setting. I am currently a postdoctoral scholar in the department of statistics at Rice University working under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. My aim is to develop robust methodology for the integrative analysis of microbiome datasets, while modeling intricate spatial and temporal structures present in the data. 
     
-    <p>I will be joining the department of statistics at Rice University as a postdoctoral scholar under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. I will develop robust methodology for the integrative analysis of microbiome datasets with multi-omic modalities, while modeling intricate spatial and temporal structures present in the data. 
     Previously, I have been a postdoctoral researcher in the department of economics at Università della Svizzera italiana (USI) in Lugano, Switzerland, working with <a href="https://publires.unicatt.it/en/persons/stefano-peluso/">Stefano Peluso</a> and <a href="http://usi.to/exz">Antonietta Mira</a>. I earned my Ph.D. in Biostatistics from the University of Louisville under the supervision of <a href="https://profiles.louisville.edu/jeremy.gaskins">Jeremy Gaskins</a>. 
     </p>
     
-    <p>My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation. Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
-    </p>
+    <!-- <p>My methodological contributions include the development of models for zero-inflated correlated count data, frameworks for identifying heterogeneity and outliers in longitudinal outcomes, Bayesian models for longitudinal microbiome data, and nonparametric Bayesian methods based on stochastic differential equations to study infectious disease transmission and gene regulation. Beyond methodology, I have collaborated on several application-focused projects in public health, including research on sports medicine, maternal health, wastewater-based epidemiology, and environment.
+    </p> -->
     
     <h3>Research Interests</h3>
     <ul>
-      <li>Bayesian Methods</li>
-      <li>Spatio-temporal Models</li>
-      <li>Computational Biology</li>
+      <li>Longitudinal and Spatial Models</li>
+      <li>Complex Dependence Models</li>
+      <li>Microbiome Data Analysis</li>
+      <li>Bayesian Nonparametrics</li>
       <li>Dynamical Systems</li>
     </ul>
   </div>
