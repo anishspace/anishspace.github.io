@@ -99,7 +99,7 @@ custom_head: |
     <h3>Research Interests</h3>
     <ul>
       <li>Longitudinal and Spatial Models</li>
-      <li>Complex Dependence Models</li>
+      <li>Complex Dependence Structures</li>
       <li>Microbiome Data Analysis</li>
       <li>Bayesian Nonparametrics</li>
       <li>Dynamical Systems</li>
