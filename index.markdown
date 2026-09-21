@@ -86,7 +86,7 @@ custom_head: |
 
     <p>Welcome to my digital base!</p>
     
-    <p>I am a statistician developing methodologies for data with complex dependence structures. My research spans spatio-temporal modeling, analysis of microbiome data with multi-omic modalities, and dynamic systems, particularly in Bayesian setting. </p>
+    <p>I am a statistician developing methodologies for data with complex dependence structures. My research spans spatio-temporal modeling, statistical genomics, and dynamic systems, particularly in Bayesian setting. </p>
     
     <p>I am currently a postdoctoral scholar in the department of statistics at Rice University working under the mentorship of <a href="https://sites.google.com/rice.edu/cbpeterson/">Christine Peterson</a>. My aim is to develop robust methodology for integrative analysis of microbiome datasets with multi-omic modalities, while modeling intricate spatial and temporal structures present in the data.</p> 
     
